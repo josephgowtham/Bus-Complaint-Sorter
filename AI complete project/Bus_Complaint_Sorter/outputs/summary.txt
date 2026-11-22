@@ -1,0 +1,85 @@
+======================================================================
+CIT BUS COMPLAINT SORTER - EXECUTIVE SUMMARY REPORT
+Coimbatore Institute of Technology - Transport Department
+======================================================================
+
+1. OVERALL METRICS
+   Total Complaints Processed : 27
+   Total Urgent Safety Alerts : 9
+   Deciding Authority        : Transport Officer (Human Decision Maker)
+   Automated Actions          : None (Review Only)
+
+2. COMPLAINT BREAKDOWN BY CATEGORY
+   - driver         :   7 complaints
+   - delay          :   5 complaints
+   - crowding       :   5 complaints
+   - vehicle        :   4 complaints
+   - other          :   4 complaints
+   - route_request  :   2 complaints
+
+3. ROUTE COMPLAINTS RANKING (HIGHEST TO LOWEST)
+   Rank  Route   Area Name           Complaints
+   --------------------------------------------
+   1     Route 1  Tambaram            2         
+   2     Route 3  Porur               2         
+   3     Route 4  Medavakkam          2         
+   4     Route 7  Avadi               2         
+   5     Route 8  Thiruvanmiyur       2         
+   6     Route 10 Ambattur            2         
+   7     Route 11 Sholinganallur      2         
+   8     Route 2  Velachery           1         
+   9     Route 5  Chromepet           1         
+   10    Route 6  Guindy              1         
+   11    Route 9  Anna Nagar          1         
+   12    Route 12 Pallavaram          1         
+   -     No Route Specified (Vague/General) : 8
+
+4. PRIORITY SAFETY COMPLAINTS (ACTION LIST FOR TRANSPORT OFFICER)
+   [1] ID: 1 | Date: 2026-11-01 | Route 7 (Avadi)
+       Summary   : Bus on Route 7 was driving extremely rashly and cut...
+       Complaint : "Bus on Route 7 was driving extremely rashly and cut across two red lights near Avadi signal."
+       Status    : PENDING TRANSPORT OFFICER REVIEW
+
+   [2] ID: 3 | Date: 2026-11-02 | Route 3 (Porur)
+       Summary   : Route 3 Porur bus was dangerously overcrowded with students hanging...
+       Complaint : "Route 3 Porur bus was dangerously overcrowded with students hanging out on the footboard."
+       Status    : PENDING TRANSPORT OFFICER REVIEW
+
+   [3] ID: 4 | Date: 2026-11-02 | Route 5 (Chromepet)
+       Summary   : Route 5 driver was constantly talking on his mobile phone...
+       Complaint : "Route 5 driver was constantly talking on his mobile phone while driving near Chromepet."
+       Status    : PENDING TRANSPORT OFFICER REVIEW
+
+   [4] ID: 5 | Date: 2026-11-03 | Route Unspecified
+       Summary   : The bus broke down halfway today near Guindy, there was...
+       Complaint : "The bus broke down halfway today near Guindy, there was heavy smoke coming from the engine."
+       Status    : PENDING TRANSPORT OFFICER REVIEW
+
+   [5] ID: 7 | Date: 2026-11-04 | Route 4 (Medavakkam)
+       Summary   : Route 4 bus driver applied sudden brakes near Medavakkam junction...
+       Complaint : "Route 4 bus driver applied sudden brakes near Medavakkam junction and nearly caused a severe accident."
+       Status    : PENDING TRANSPORT OFFICER REVIEW
+
+   [6] ID: 14 | Date: 2026-11-07 | Route 12 (Pallavaram)
+       Summary   : Route 12 rear tyre looks bald and had a puncture...
+       Complaint : "Route 12 rear tyre looks bald and had a puncture twice this week near Pallavaram."
+       Status    : PENDING TRANSPORT OFFICER REVIEW
+
+   [7] ID: 16 | Date: 2026-11-08 | Route 6 (Guindy)
+       Summary   : Route 6 Guindy bus had brake failure scare when driver...
+       Complaint : "Route 6 Guindy bus had brake failure scare when driver struggled to stop at the intersection."
+       Status    : PENDING TRANSPORT OFFICER REVIEW
+
+   [8] ID: 18 | Date: 2026-11-09 | Route 7 (Avadi)
+       Summary   : Route 7 bus-la footboard travelling panna vendi irukku, safety-eh illa.
+       Complaint : "Route 7 bus-la footboard travelling panna vendi irukku, safety-eh illa."
+       Status    : PENDING TRANSPORT OFFICER REVIEW
+
+   [9] ID: 25 | Date: 2026-11-13 | Route 10 (Ambattur)
+       Summary   : Route 10 bus driver overtook another vehicle dangerously on the...
+       Complaint : "Route 10 bus driver overtook another vehicle dangerously on the wrong side at high speed."
+       Status    : PENDING TRANSPORT OFFICER REVIEW
+
+======================================================================
+END OF REPORT - Generated via Pure Python Aggregation
+======================================================================
